@@ -81,3 +81,15 @@ me via LinkedIn (https://www.linkedin.com/in/realspal). Thanks for reading. With
 Soumyadeep Pal.
 
 -----------------------------------------------------------------------------------------------
+
+Screenshots from the Application:
+-----------------------------------------------------------------------------------------------
+![Screenshot-ChainReaction-Game](https://user-images.githubusercontent.com/76199286/132983215-c3ce5cfe-da1a-493b-b303-b0ebe18ce0fe.png)
+
+-----------------------------------------------------------------------------------------------
+
+Screenshot from the Project in BlueJ:
+-----------------------------------------------------------------------------------------------
+![Screenshot-ChainReaction-Classes](https://user-images.githubusercontent.com/76199286/132983286-0f9c9ecd-03a4-4518-9176-7f454a45a1dd.png)
+
+-----------------------------------------------------------------------------------------------
