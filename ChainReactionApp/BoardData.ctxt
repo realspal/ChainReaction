@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=BoardData
+comment1.params=mat1\ whoseMoveNow1
+comment1.target=BoardData(int[][],\ int)
+numComments=2

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=flag
+comment1.target=Board(int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=x\ y
+comment3.target=void\ clicked(int,\ int)
+comment4.params=x\ y
+comment4.target=void\ add(int,\ int)
+comment5.params=
+comment5.target=void\ refreshMatrix()
+comment6.params=x
+comment6.target=void\ setStatus(int)
+comment7.params=
+comment7.target=int\ checkForWin()
+numComments=8
