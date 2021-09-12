@@ -1,0 +1,2 @@
+# ChainReaction
+Chain Reaction PvP (2-Player) Game Application with options for saving and loading an incomplete game. This repository contains a Windows application, created in Java using Swing and AWT, for playing the Chain Reaction game, a turn-based deterministic combinatorial strategy game of perfect information for 2 (to 8) players, played on a rectangular grid, originally developed by Buddy-Matt Entertainment for Android. This version of the game features a 9x16 grid for 2 players (Red and Blue).
